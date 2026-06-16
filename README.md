@@ -1,6 +1,6 @@
 # GAREN
 
-A graph-based MCTS chess engine
+A GNN-based chess engine
 
 ## TLDR
 
