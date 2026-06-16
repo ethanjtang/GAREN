@@ -1,4 +1,8 @@
 brainstorm/
 lichess-eval-db/
+slop/
 __pycache__/
 pycache/
+*.parquet
+*.json
+*.jsonl
